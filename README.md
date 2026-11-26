@@ -21,13 +21,14 @@ The existing version is deployed and operational, providing real-time energy mon
 
 Access may be restricted to authorised users due to the private nature of household energy data.
 
+
 ## Application Screenshots
 
 ### Live Energy Overview
 
 Real-time solar generation, household consumption, grid exchange, battery performance, daily earnings and energy flow.
 
-![Live Energy Overview](docs/images/dashboard-overview.png)
+![Live Energy Overview](source/docs/images/dashboard-overview.png)
 
 <details>
 <summary><strong>View additional application screenshots</strong></summary>
@@ -36,25 +37,26 @@ Real-time solar generation, household consumption, grid exchange, battery perfor
 
 Daily, monthly and lifetime energy savings and export earnings, presented through an interactive calendar and aggregated financial summaries.
 
-![Earnings Calendar](docs/images/dashboard-earnings.png)
+![Earnings Calendar](source/docs/images/dashboard-earnings.png)
 
 ### Net Financial Position
 
 Consolidated electricity and gas costs, export credits and overall financial performance, with daily, monthly and lifetime summaries.
 
-![Net Financial Position](docs/images/dashboard-net-position.png)
+![Net Financial Position](source/docs/images/dashboard-net-position.png)
 
 ### Energy Bills
 
 Monthly and annual energy costs, settlement consumption, standing charges, export credits and comparisons against EcoFlow consumption data.
 
-![Energy Bills](docs/images/dashboard-bills.png)
+![Energy Bills](source/docs/images/dashboard-bills.png)
 
 ### Historical Analytics and Tariffs
 
 Historical energy consumption and generation alongside time-dependent electricity import and export tariffs, gas rates and standing charges.
 
-![Historical Analytics and Tariffs](docs/images/dashboard-history.png)
+![Historical Analytics and Tariffs](source/docs/images/dashboard-history.png)
+
 
 </details>
 
